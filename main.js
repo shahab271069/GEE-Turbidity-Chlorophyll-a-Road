@@ -1,5 +1,6 @@
 /****************************************************************************** 
-* Script: Turbidity estimation using Sentinel 2 and Landsat 8 OLI             *
+* Script: Turbidity and Cjlorophyll-a estimation using Sentinel 2             *
+* Along a road in Norway                                                      *
 * Authors v1.0: Shahab Aldin Shojaeezadeh, Mehrdad Ghorbani Museloo           *                                           
 * Date: August 5, 2021                                                        *
 * Project: Norway Turbidity                                                   *
@@ -9,10 +10,8 @@
 *                                                                             *
 *  Parameters:                                                                *    
 *    -Turbidity                                                               *
-*    -Surface Temperature                                                     *
 *    -Normalized Difference Chlorophyll Index                                 *
 *    -Chlorophyll-a                                                           *
-*    -Colored Dissolved Organic Matter                                        *
 * 
 *  No steps must be taken to modify the code to enable it to run.             *
 *******************************************************************************/
